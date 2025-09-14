@@ -23,9 +23,4 @@ src/
 - Validação de entradas numéricas sem uso de try-catch
 - Uso de LinkedList para fila e Stack para histórico
 
-## Como Compilar e Executar
 
-1. Abra o projeto no IntelliJ IDEA
-2. Compile o projeto
-3. Execute `GerenciadorClinica.java`
-4. Siga o menu interativo no console
